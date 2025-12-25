@@ -3,6 +3,9 @@
 ## Requirement
 Cmake >= 2.8 GCC = 8.4.0
 
+## Datasets
+2 small datasets (DBLP and Human) are provided in this repo. Full datasets can be downloaded [here.](https://hkustconnect-my.sharepoint.com/:u:/g/personal/ssunah_connect_ust_hk/EWwS7ixh4NBHriiPHNpUMAkBu8vbH1f37Ug8CPWQdUXj4w?e=0GXEMg)
+
 ## Compile
 Under the root directory of the project, execute the following commands to compile the source code.
 
